@@ -1,8 +1,8 @@
 ## Hello! My name's Jonatas and i'm FrontEnd Developer and Designer!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasgs7&show_icons=true&theme=github_dark&include_all_commits=true&count_private_true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasgs7&layout=compact&langs_count=16&theme=github_dark" /> 
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasgs7&show_icons=true&theme=github_dark&include_all_commits=true&count_private_true" /> 
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasgs7&layout=compact&langs_count=16&theme=github_dark" /> 
 </div>
 
 ##
